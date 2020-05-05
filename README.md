@@ -1,7 +1,7 @@
 # CS4641_Final_Project
-Hi! This is my final project for CS 4641 - Food Classification!
+Hi! This is my final project for CS 4641 - Machine Learning!
 
-Experimented with basic image processing techniques and tested effectiveness of three algos (Decision Trees, SVM, CNN) on a food dataset, along with analysis of the different algorithms and results.
+Experimented with basic image processing techniques and tested the effectiveness of three algos (Decision Trees, SVM, CNN) on a food classification dataset. Performed analysis on the results and performance of the different algorithms.
 
 # Directions
 Hi! I hope the following information helps:
